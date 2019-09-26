@@ -1,0 +1,17 @@
+[book]
+authors = ["Mysh!"]
+language = "en"
+multilingual = true
+src = "src"
+title = "GoTermux"
+description = "Easy-to-use wrapper for Termux API"
+
+[output.html]
+git-repository-url = "https://github.com/hugmouse/gotermux"
+default-theme = "navy"
+
+[[output.i18n.translations]]
+language = "ru"
+translators = ["Ярослав Шим"]
+title = "Документация GoTermux"
+description = "Легкий в использовании враппер для Termux API"
